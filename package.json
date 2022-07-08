@@ -1,0 +1,28 @@
+{
+  "name": "x-dry-javascript-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "normalize:level-1": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeoVie/x-dry-javascript-plugin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeoVie/x-dry-javascript-plugin/issues"
+  },
+  "homepage": "https://github.com/LeoVie/x-dry-javascript-plugin#readme",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "commander": "^9.3.0",
+    "conf": "^10.1.2",
+    "js-tokens": "^8.0.0"
+  }
+}
